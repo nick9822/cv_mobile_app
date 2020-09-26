@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "build/debug.keystore",
+            "storePassword": "debug123",
+            "alias": "alias_name",
+            "password" : "debug123",
+            "keystoreType": ""
+        },
+		"release": {
+            "keystore": "build/onehash-release-key.keystore",
+            "storePassword": "onehash@123.!",
+            "alias": "onehash",
+            "password" : "onehash@123.!",
+            "keystoreType": ""
+        }
+    }
+}
